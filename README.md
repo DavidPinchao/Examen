@@ -1,2 +1,2 @@
-# examen-1
+# Examen
 David Pinchao segundo B
